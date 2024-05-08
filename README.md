@@ -1,5 +1,6 @@
 # React use in existing project using CDN
 
+**If js and all code in one file then no need server. If js is in separate file then need server.** <br>
 **babel.min.js: for jsx to js**
 
 ```html
